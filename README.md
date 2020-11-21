@@ -32,7 +32,8 @@ adjust your component path also and use it like below
 
 
 # Sample
-```<script>
+```
+<script>
 export default {
     data() {
         return {
