@@ -3,7 +3,7 @@ An plug and play vue js multiselect dropdown component. Although the name sugges
 
 
 # Backstory
-While learning via js I realized that I need a multiselect dropdown component to create a multiselect able dropdown, obviously I could have used any npm package available out there, but I was trying to build and learn something new. So I gathered ideas from the open ocean of internet and final output was this. Obviously it's not 100% bug free or fully featured, but a lot to come in future.
+While learning vue js I realized that I need a multiselect dropdown component to create a multiselect able dropdown, obviously I could have used any npm package available out there, but I was trying to build and learn something new. So I gathered ideas from the open ocean of internet and final output was this. Obviously it's not 100% bug free or fully featured, but a lot to come in future.
 
 
 # How to use?
